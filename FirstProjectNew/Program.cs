@@ -11,7 +11,7 @@ namespace FirstProjectNew
 
         private static string SayHello(string name)
         {
-            return $"Hello my name is {Svetlyo}";
+            return $"Hello my name is {SvetlyoNew}";
         }
     }
 }
